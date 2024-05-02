@@ -1,11 +1,12 @@
-document.getElementById("botaoEnviar").addEventListener("click", validaFormulario)
+document.getElementById("botao-enviar").addEventListener("click", validarFormulario);
 
-function validaFormulario(){
-  if(document.getElementById("nome").value != "" && 
-     document.getElementById("e-mail").value != "" && 
-     document.getElementById("telefone").value != ""){
-   alert("Prontinho! Você receberá as novidades por e-mail.")
-  }else{
-   alert("Por favor, preencha os campos nome, e-mail e telefone!")
+function validarFormulario() {
+
+  if (document.getElementById("nome").value !== "" &&
+    document.getElementById("e-mail").value !== "" &&
+    document.getElementById("telefone").value !== "") {
+    alert("Prontinho! Você receberá as novidades por e-mail.");
+  } else {
+    alert("Por favor, preencha todos os campos!");
   }
 }
