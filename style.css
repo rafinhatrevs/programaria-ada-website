@@ -1,53 +1,82 @@
 body {
-  text-align: left;
-  font-family: Open Sans, sans-serif;
-  background: #FFFAFA;
-  color: #192A51;
+  background: #F5E6E8;
   margin: 0px 0px 30px 0px;
 }
 
 h1 {
   text-transform: uppercase;
   text-align: center;
-  font-size: 60px;
-  font-weight: 300;
   font-family: 'Lora', sans-serif;
+  font-size: 60px;
+  font-weight: normal;
+  color: #192A51;
+}
+
+.principal {
+  background-color: #D5C6E0;
+  height: 60px;
+  max-width: 85%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.principal a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Lora', sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  color: #192A51;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 150px;
 }
 
 h2 {
   text-transform: uppercase;
   text-align: center;
+  font-family: 'Lora', sans-serif;
   font-size: 40px;
   font-weight: normal;
-  font-family: 'Lora', sans-serif;
+  color: #192A51;
+}
+
+p {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
   color: #192A51;
 }
 
 .titulo-infancia {
   text-transform: uppercase;
   text-align: center;
+  font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  font-family: 'Lora', sans-serif;
-  color: #4B2142;
+  color: #192A51;
 }
 
 .titulo-juventude {
   text-transform: uppercase;
   text-align: center;
+  font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  font-family: 'Lora', sans-serif;
-  color: #74226C;
+  color: #192A51;
 }
 
 .titulo-vida-adulta {
   text-transform: uppercase;
   text-align: center;
+  font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  font-family: 'Lora', sans-serif;
-  color: #816E94;
+  color: #192A51;
 }
 
 section {
@@ -61,17 +90,18 @@ section section {
 
 h3 {
   text-align: center;
-  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
   font-style: italic;
+  color: #192A51;
 }
 
 h4 {
   text-align: center;
-}
-
-p {
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  line-height: 1.5;
+  font-style: italic;
+  color: #192A51;
 }
 
 img {
@@ -87,42 +117,24 @@ ul {
 
 a {
   text-transform: uppercase;
-  text-align: center;
   text-decoration: none;
-  color: #74226C;
   font-weight: 700;
-}
-
-.principal {
-  text-align: center;
-  background-color: #D5C6E0;
-  height: 60px;
-  max-width: 85%;
-  margin: 0 auto;
-}
-
-.principal a {
-  text-transform: uppercase;
-  text-decoration: none;
-  font-weight: normal;
-  font-family: 'Lora', sans-serif;
-  font-size: 25px;
-  color: #192A51;
-}
-
-.principal li {
-  display: inline-block;
-  line-height: 2.5;
-  margin: 0 150px;
+  color: #967AA1;
 }
 
 form {
   text-align: center;
+  font-family: 'Lora', sans-serif;
+  font-size: 15px;
+  color: #192A51;
 }
 
 button {
-  background-color: #816E94;
+  background-color: #967AA1;
   border: 1px solid transparent;
   padding: 2px 20px;
   border-radius: 3px;
+  font-family: 'Lora', sans-serif;
+  font-size: 15px;
+  color: #192A51;
 }
