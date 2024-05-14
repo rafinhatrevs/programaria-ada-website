@@ -4,12 +4,12 @@ body {
 }
 
 h1 {
-  text-transform: uppercase;
+  color: #192A51;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Lora', sans-serif;
   font-size: 60px;
   font-weight: normal;
-  color: #192A51;
 }
 
 .principal {
@@ -21,12 +21,12 @@ h1 {
 }
 
 .principal a {
+  color: #192A51;
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #192A51;
 }
 
 .principal li {
@@ -36,47 +36,47 @@ h1 {
 }
 
 h2 {
-  text-transform: uppercase;
+  color: #192A51;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Lora', sans-serif;
   font-size: 40px;
   font-weight: normal;
-  color: #192A51;
 }
 
 p {
+  color: #192A51;
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  color: #192A51;
 }
 
 .titulo-infancia {
-  text-transform: uppercase;
+  color: #192A51;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #192A51;
 }
 
 .titulo-juventude {
-  text-transform: uppercase;
+  color: #192A51;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #192A51;
 }
 
 .titulo-vida-adulta {
-  text-transform: uppercase;
+  color: #192A51;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Lora', sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #192A51;
 }
 
 section {
@@ -93,49 +93,49 @@ img {
 }
 
 h3 {
+  color: #192A51;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   font-style: italic;
-  color: #192A51;
 }
 
 h4 {
+  color: #192A51;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   font-style: italic;
-  color: #192A51;
 }
 
 ul {
-  text-align: center;
   list-style-type: none;
   line-height: 2;
   padding-left: 0;
+  text-align: center;
 }
 
 a {
+  color: #967AA1;
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'Lora', sans-serif;
   font-weight: 700;
-  color: #967AA1;
 }
 
 form {
+  color: #192A51;
   text-align: center;
   font-family: 'Lora', sans-serif;
   font-size: 15px;
-  color: #192A51;
 }
 
 button {
   background-color: #967AA1;
   border: 1px solid transparent;
-  padding: 2px 20px;
   border-radius: 3px;
+  padding: 2px 20px;
+  color: #192A51;
   font-family: 'Lora', sans-serif;
   font-size: 15px;
-  color: #192A51;
 }
