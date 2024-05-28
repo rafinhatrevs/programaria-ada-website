@@ -1,10 +1,10 @@
-document.getElementById("botao-enviar").addEventListener("click", validarFormulario);
+document.getElementById("send-button").addEventListener("click", validateForm);
 
-function validarFormulario() {
+function validateForm() {
 
-  if (document.getElementById("nome").value !== "" &&
-    document.getElementById("e-mail").value !== "" &&
-    document.getElementById("telefone").value !== "") {
+  if (document.getElementById("name").value !== "" &&
+    document.getElementById("email").value !== "" &&
+    document.getElementById("phone").value !== "") {
     alert("Prontinho! Você receberá as novidades por e-mail.");
   } else {
     alert("Por favor, preencha todos os campos!");

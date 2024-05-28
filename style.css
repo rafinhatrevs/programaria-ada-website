@@ -12,7 +12,7 @@ h1 {
   font-weight: normal;
 }
 
-.principal {
+.main {
   background-color: #D5C6E0;
   height: 60px;
   max-width: 85%;
@@ -20,7 +20,7 @@ h1 {
   text-align: center;
 }
 
-.principal a {
+.main a {
   color: #192A51;
   text-transform: uppercase;
   text-decoration: none;
@@ -29,7 +29,7 @@ h1 {
   font-weight: normal;
 }
 
-.principal li {
+.main li {
   display: inline-block;
   line-height: 2.5;
   margin: 0 150px;
@@ -52,7 +52,7 @@ p {
   line-height: 1.5;
 }
 
-.titulo-infancia {
+.childhood-title {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
@@ -61,7 +61,7 @@ p {
   font-weight: normal;
 }
 
-.titulo-juventude {
+.youth-title {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
@@ -70,7 +70,7 @@ p {
   font-weight: normal;
 }
 
-.titulo-vida-adulta {
+.adulthood-title {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
