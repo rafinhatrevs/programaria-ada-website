@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
   background: #F5E6E8;
   margin: 0px 0px 30px 0px;
@@ -7,7 +9,7 @@ h1 {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 60px;
   font-weight: normal;
 }
@@ -24,7 +26,7 @@ h1 {
   color: #192A51;
   text-transform: uppercase;
   text-decoration: none;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 25px;
   font-weight: normal;
 }
@@ -39,7 +41,7 @@ h2 {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 40px;
   font-weight: normal;
 }
@@ -56,7 +58,7 @@ p {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 25px;
   font-weight: normal;
 }
@@ -65,7 +67,7 @@ p {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 25px;
   font-weight: normal;
 }
@@ -74,7 +76,7 @@ p {
   color: #192A51;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 25px;
   font-weight: normal;
 }
@@ -119,14 +121,14 @@ a {
   color: #967AA1;
   text-transform: uppercase;
   text-decoration: none;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-weight: 700;
 }
 
 form {
   color: #192A51;
   text-align: center;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 15px;
 }
 
@@ -136,6 +138,6 @@ button {
   border-radius: 3px;
   padding: 2px 20px;
   color: #192A51;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 15px;
 }
